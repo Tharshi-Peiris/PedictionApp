@@ -1,0 +1,2 @@
+# PedictionApp
+Leaf Diseases detection
